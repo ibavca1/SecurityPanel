@@ -7,6 +7,8 @@
         x:Class="SecurityPanel.IOS.MainWindow"
         Title="SecurityPanel.IOS">
     <Grid RowDefinitions="Auto, *">
-        
+        <Grid ColumnDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto">
+            
+        </Grid>
     </Grid>
 </Window>
