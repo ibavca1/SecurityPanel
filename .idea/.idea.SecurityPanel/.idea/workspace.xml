@@ -4,13 +4,7 @@
     <projectFile>SecurityPanel/SecurityPanel.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="Update MainWindow">
-      <change afterPath="$PROJECT_DIR$/SecurityPanel.Share/Converters/BitmapAssetValueConverter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.Share/SecurityPanel.Share.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.Share/SecurityPanel.Share.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674104383082</updated>
-      <workItem from="1674104384367" duration="3419000" />
+      <workItem from="1674104384367" duration="3497000" />
     </task>
     <task id="LOCAL-00001" summary="Rename root space">
       <created>1674104795319</created>
@@ -92,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674105439338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add share converter">
+      <created>1674109765725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674109765725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +106,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Rename root space" />
     <MESSAGE value="Update MainWindow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update MainWindow" />
+    <MESSAGE value="Add share converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add share converter" />
   </component>
 </project>
