@@ -5,13 +5,17 @@
     <projectFile>SecurityPanel/SecurityPanel.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="workspace.xml">
+    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="1312">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Users/anton/RiderProjects/SecurityPanel/SecurityPanel.IOS/MainWindow.axaml" root0="SKIP_HIGHLIGHTING" />
@@ -30,23 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/anton/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/Users/anton/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.SecurityPanel">
     <configuration name="SecurityPanel" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/SecurityPanel.IOS/bin/Debug/net7.0/SecurityPanel.IOS" />
@@ -95,7 +100,7 @@
       <updated>1674104383082</updated>
       <workItem from="1674104384367" duration="3497000" />
       <workItem from="1674111073977" duration="786000" />
-      <workItem from="1674115683923" duration="1943000" />
+      <workItem from="1674115683923" duration="5218000" />
     </task>
     <task id="LOCAL-00001" summary="Rename root space">
       <created>1674104795319</created>
@@ -153,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674124055124</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1312">
+      <created>1674124458108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674124458108</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +173,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -171,6 +194,7 @@
     <MESSAGE value="Add image component" />
     <MESSAGE value="avares work on iOS" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="1312" />
+    <option name="LAST_COMMIT_MESSAGE" value="1312" />
   </component>
 </project>
