@@ -5,12 +5,7 @@
     <projectFile>SecurityPanel/SecurityPanel.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="workspa">
-      <change afterPath="$PROJECT_DIR$/SecurityPanel.IOS/ViewModels/MainViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" afterDir="false" />
-    </list>
+    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="Add image component" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
