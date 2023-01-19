@@ -14,7 +14,7 @@
             </Grid.Resources>
             <Image Grid.Column="0" 
                    Source="{Binding Logo, Converter={StaticResource variableImage}}"/>
-            <Label Grid.Column="1" Content="{Binding Logo}"></Label>
+            <Label Grid.Column="1">Лента</Label>
         </Grid>
     </Grid>
 </Window>
