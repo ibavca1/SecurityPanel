@@ -4,9 +4,12 @@
     <projectFile>SecurityPanel/SecurityPanel.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="Rename root space">
+    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="Update MainWindow">
+      <change afterPath="$PROJECT_DIR$/SecurityPanel.Share/Converters/BitmapAssetValueConverter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/SecurityPanel.IOS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/SecurityPanel.IOS.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecurityPanel.Share/SecurityPanel.Share.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.Share/SecurityPanel.Share.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674104383082</updated>
-      <workItem from="1674104384367" duration="1000000" />
+      <workItem from="1674104384367" duration="3419000" />
     </task>
     <task id="LOCAL-00001" summary="Rename root space">
       <created>1674104795319</created>
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674104795319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update MainWindow">
+      <created>1674105439338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674105439338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +104,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Rename root space" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename root space" />
+    <MESSAGE value="Update MainWindow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update MainWindow" />
   </component>
 </project>

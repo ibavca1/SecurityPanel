@@ -2,13 +2,18 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ext="clr-namespace:SecurityPanel.Share.Converters;assembly=SecurityPanel.Share"
         mc:Ignorable="d" d:DesignWidth="1280" d:DesignHeight="1024"
         Width="1280" Height="1024"
         x:Class="SecurityPanel.IOS.MainWindow"
         Title="SecurityPanel.IOS">
     <Grid RowDefinitions="Auto, *">
         <Grid ColumnDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto">
-            
+            <Grid.Resources>
+                <ext:BitmapAssetValueConverter x:Key="variableImage"/>
+            </Grid.Resources>
+            <Image Grid.Column="0" 
+                   Source="{Binding Logo, Converter={StaticResource variableImage}}"/>
         </Grid>
     </Grid>
 </Window>
