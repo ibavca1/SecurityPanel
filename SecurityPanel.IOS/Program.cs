@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace SecurityPanel;
+namespace SecurityPanel.IOS;
 
 class Program
 {
