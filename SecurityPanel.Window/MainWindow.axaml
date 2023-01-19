@@ -3,7 +3,17 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        xmlns:ext="clr-namespace:SecurityPanel.Share.Converters;assembly=SecurityPanel.Share"
+        xmlns:local="clr-namespace:SecurityPanel.Window;assembly=SecurityPanel.Window"
         x:Class="SecurityPanel.Window.MainWindow"
         Title="SecurityPanel.Window">
-    Welcome to Avalonia!
+    <Grid RowDefinitions="Auto, *">
+        <Grid ColumnDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto">
+            <Grid.Resources>
+                <ext:BitmapAssetValueConverter x:Key="variableImage" />
+            </Grid.Resources>
+            <Image Grid.Column="0" x:Name="Logo" Source="{Binding Logo, Converter={StaticResource variableImage}}"/>
+            <Label Grid.Column="1" Content="{Binding Logo}"/>
+        </Grid>
+    </Grid>
 </Window>

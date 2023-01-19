@@ -4,6 +4,8 @@
     <option name="projectPerEditor">
       <map>
         <entry key="SecurityPanel.IOS/MainWindow.axaml" value="SecurityPanel.IOS/SecurityPanel.IOS.csproj" />
+        <entry key="SecurityPanel.Window/Assets.axaml" value="SecurityPanel.Window/SecurityPanel.Window.csproj" />
+        <entry key="SecurityPanel.Window/MainWindow.axaml" value="SecurityPanel.Window/SecurityPanel.Window.csproj" />
         <entry key="SecurityPanel/MainWindow.axaml" value="SecurityPanel/SecurityPanel.csproj" />
       </map>
     </option>
