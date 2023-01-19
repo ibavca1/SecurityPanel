@@ -4,17 +4,14 @@
     <projectFile>SecurityPanel/SecurityPanel.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="Update MainWindow">
-      <change afterPath="$PROJECT_DIR$/SecurityPanel.Share/Converters/BitmapAssetValueConverter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecurityPanel.Share/SecurityPanel.Share.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SecurityPanel.Share/SecurityPanel.Share.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="workspa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" root0="FORCE_HIGHLIGHTING" />
@@ -32,22 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/anton/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/Users/anton/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/Users/anton/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="SecurityPanel" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -76,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674104383082</updated>
-      <workItem from="1674104384367" duration="3419000" />
+      <workItem from="1674104384367" duration="3497000" />
+      <workItem from="1674111073977" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="Rename root space">
       <created>1674104795319</created>
@@ -92,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674105439338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add share converter">
+      <created>1674109765725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674109765725</updated>
+    </task>
+    <task id="LOCAL-00004" summary="workspa">
+      <created>1674111229811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674111229811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +118,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Rename root space" />
     <MESSAGE value="Update MainWindow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update MainWindow" />
+    <MESSAGE value="Add share converter" />
+    <MESSAGE value="workspa" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspa" />
   </component>
 </project>
