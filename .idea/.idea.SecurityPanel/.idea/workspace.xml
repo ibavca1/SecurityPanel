@@ -13,10 +13,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/anton/RiderProjects/SecurityPanel/SecurityPanel.IOS/MainWindow.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SecurityPanel.IOS/MainWindow.axaml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -97,7 +95,7 @@
       <updated>1674104383082</updated>
       <workItem from="1674104384367" duration="3497000" />
       <workItem from="1674111073977" duration="786000" />
-      <workItem from="1674115683923" duration="1248000" />
+      <workItem from="1674115683923" duration="1943000" />
     </task>
     <task id="LOCAL-00001" summary="Rename root space">
       <created>1674104795319</created>
@@ -141,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674123645138</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="avares work on iOS">
+      <created>1674124022023</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674124022023</updated>
+    </task>
+    <task id="LOCAL-00008" summary="workspace.xml">
+      <created>1674124055124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674124055124</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +169,7 @@
     <MESSAGE value="Add share converter" />
     <MESSAGE value="workspa" />
     <MESSAGE value="Add image component" />
+    <MESSAGE value="avares work on iOS" />
     <MESSAGE value="workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
