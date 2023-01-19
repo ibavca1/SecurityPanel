@@ -5,7 +5,9 @@
     <projectFile>SecurityPanel/SecurityPanel.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="Add image component" />
+    <list default="true" id="cac25eac-855f-433d-a8d6-ba96e9007735" name="Changes" comment="workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityPanel/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +97,7 @@
       <updated>1674104383082</updated>
       <workItem from="1674104384367" duration="3497000" />
       <workItem from="1674111073977" duration="786000" />
-      <workItem from="1674115683923" duration="366000" />
+      <workItem from="1674115683923" duration="1248000" />
     </task>
     <task id="LOCAL-00001" summary="Rename root space">
       <created>1674104795319</created>
@@ -125,7 +127,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674111229811</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add image component">
+      <created>1674116265803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674116265803</updated>
+    </task>
+    <task id="LOCAL-00006" summary="workspace.xml">
+      <created>1674123645138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674123645138</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +156,8 @@
     <MESSAGE value="Update MainWindow" />
     <MESSAGE value="Add share converter" />
     <MESSAGE value="workspa" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspa" />
+    <MESSAGE value="Add image component" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
